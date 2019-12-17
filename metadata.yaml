@@ -1,16 +1,21 @@
 _repo: Time-Payment_60886
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Ritter, Bob
     gutenberg_agent_id: '46056'
     url: http://www.gutenberg.org/2009/agents/46056
+covers:
+- cover_type: archival
+  image_path: 60886-h/images/cover.jpg
 creator:
   author:
     agent_name: Jacobs, Sylvia
     gutenberg_agent_id: '46363'
     url: http://www.gutenberg.org/2009/agents/46363
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60886#Time-Payment
 gutenberg_issued: '2019-12-09'
 gutenberg_type: Text
 identifiers:
